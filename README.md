@@ -2,13 +2,15 @@
 
 **`Software Developer / Data Analyst`**
 
-I am a graduate student who has recently completed his masters in Computer Science from the University of Texas at Arlington. My skills include programming languages such as Java, JavaScript, React.js, Python, SQL and Mongo DB. Additionally, My skillset also consists knowledge of Ajax and RESTful APIs. I am currently focusing on machine learning , data mining and software development.
-I have a strong understanding of OOP concepts and full stack development in general. During my Master's studies, I have completed various projects related to Full Stack development, algorithms, and client server communication. I have also implemented machine learning concepts such as Regression models, Clustering models and a lot more as my side projects.To summarize I have worked on a wide variety of projects, from developing full stack responsive websites to implementing machine learning algorithms.
+🚀 Hello! I'm a passionate Computer Science professional with a Master's degree from the University of Texas at Arlington, where I delved deep into the realms of Full Stack Development, Machine Learning, and Data Mining. My technical toolkit is rich with languages like Java, JavaScript (with a focus on React.js), Python, SQL, and MongoDB, alongside a strong grasp of Ajax, RESTful APIs, and both OOP concepts and Full Stack development methodologies. 🛠️
 
-I have worked as intern for Web development of an accounting firm, and had suitably utilised my skills through developing a full stack website for the company using php as the backend. During the course of this period I had opportunities to develop , hone my soft skills to communicate / connect with the client.
+During my academic journey, I worked on diverse projects ranging from responsive website development 🌐 to intricate implementations of machine learning algorithms, including Regression and Clustering models 🤖. These experiences have not only sharpened my coding skills but also my ability to analyze and solve complex problems effectively.
 
-I am highly motivated to develop systems that challenge my skills for the advancing the requirements of my prospective clients , I am confident that with the knowledge & resources that I have , I can find a suitable solution to any challenge that comes my way benefitting the end customer and making me a strong member of his support team .
+As an intern for a leading accounting firm, I spearheaded the development of a full-stack website using PHP, a project that not only honed my technical skills but also my ability to connect and communicate with clients 🤝.
 
+I am highly motivated to develop systems that challenge my skills and advance the requirements of my prospective clients. Confident in my knowledge and resources, I am ready to tackle any challenge that comes my way, benefitting the end customer and making me a strong member of any support team. 💪
+
+Let's innovate and solve real-world problems together! 💡
 
 ---
 
