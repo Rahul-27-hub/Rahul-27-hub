@@ -13,6 +13,8 @@ I am highly motivated to develop systems that challenge my skills and advance th
 Let's innovate and solve real-world problems together! 💡
 
 ---
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  **[shirolkarrahul99@gmail.com](mailto:shirolkarrahul99@gmail.com)**
+
 
 ### 🧰 Languages and Tools
 
@@ -34,6 +36,11 @@ Let's innovate and solve real-world problems together! 💡
 **LinkedIn** <a href="https://www.linkedin.com/in/rahulshirolkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanraythatha" height="30" width="40" /></a>
 **LeetCode** <a href="https://leetcode.com/rahul_s27/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milanray" height="30" width="40" /></a>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rahul-27-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-27-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-27-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **Rahul-27-hub/Rahul-27-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
