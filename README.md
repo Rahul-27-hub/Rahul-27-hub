@@ -6,14 +6,13 @@
 
 During my academic journey, I worked on diverse projects ranging from responsive website development 🌐 to intricate implementations of machine learning algorithms, including Regression and Clustering models 🤖. These experiences have not only sharpened my coding skills but also my ability to analyze and solve complex problems effectively.
 
-As an intern for a leading accounting firm, I spearheaded the development of a full-stack website using PHP, a project that not only honed my technical skills but also my ability to connect and communicate with clients 🤝.
 
 I am highly motivated to develop systems that challenge my skills and advance the requirements of my prospective clients. Confident in my knowledge and resources, I am ready to tackle any challenge that comes my way, benefitting the end customer and making me a strong member of any support team. 💪
 
 Let's innovate and solve real-world problems together! 💡
 
 ---
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  **[shirolkarrahul99@gmail.com](mailto:shirolkarrahul99@gmail.com)**
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  **[rahulshirolkar14@gmail.com](mailto:rahulshirolkar14@gmail.com)**
 
 
 ### 🧰 Languages and Tools
