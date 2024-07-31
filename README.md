@@ -32,7 +32,7 @@ Let's innovate and solve real-world problems together! 💡
 
 ## 🌐 Socials:
 
-**LinkedIn** <a href="https://www.linkedin.com/in/rahulshirolkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanraythatha" height="30" width="40" /></a>
+**LinkedIn** <a href="https://www.linkedin.com/in/rahuls14/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanraythatha" height="30" width="40" /></a>
 **LeetCode** <a href="https://leetcode.com/rahul_s27/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milanray" height="30" width="40" /></a>
 
 
